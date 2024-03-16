@@ -62,7 +62,7 @@ To use this project, clone the repository and set up the environment as follows:
 
 ## Evaluation
 
-Accuracy score of Ensemble Learning is = 0.95 %
+Accuracy score of Ensemble Learning is 0.95%
 
 
 ## Resources
